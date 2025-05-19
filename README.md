@@ -1,4 +1,4 @@
-Initial Date: May 18 2025
+Start Date: May 18 2025
 
 # Economic Development
 Here I record economic development terms that I encounter in my work. 
