@@ -6,6 +6,10 @@ Start Date: May 18 2025
 This is based on page 33 of the 2015 book by Frank Harrell "Regression Modeling Strategies". 
 Let the general linear regression model be 
 C(Y|X) = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + ... + \beta_k X_k.
+$$
+C(Y|X) = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \dots + \beta_k X_k
+$$
+
 
 
 # Economic Development
